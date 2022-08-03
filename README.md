@@ -1,7 +1,9 @@
 # Task Recorder App
 
+## 🎓 Need to Know
 Task Recorder App is an advanced to do list where you can create tasks, record the time for the tasks, update them and delete.
 
+## 🚀  Setup
 ### Links
 - **Main App**: [here](https://628815cc837244103e7a762b--lucky-lokum-ba507d.netlify.app/)
 
